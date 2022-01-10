@@ -48,4 +48,6 @@ Optional:
 
 This codebase was detailed out by an assignment and is in no way representative of how I would develop my own contract with a similar use case.  
 
-Funds deposited in here would be lost due to the lack of security measures. This is unsafe.   
+Funds deposited in here would be lost due to the lack of security measures. This is unsafe.  
+
+Instructions followed from course to complete assignment by Eamon
